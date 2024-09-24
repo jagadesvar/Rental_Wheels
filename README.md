@@ -16,8 +16,6 @@
 - *API Integration:* Google Maps API
 - *Hosting:* (Optional - specify if hosted on any platform)
 
-## Demo 🚀
-You can check out the live demo of RentalWheels [here](#).
 
 ## Getting Started 🏁
 
