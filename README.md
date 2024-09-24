@@ -9,16 +9,6 @@
 - *Real-time Availability:* Vehicle availability is updated in real-time based on bookings.
 - *Responsive Design:* Optimized for mobile, tablet, and desktop devices.
   
-## Screenshots 📸
-### Home Page:
-![Home Page](path_to_image.png)
-
-### Vehicle Listings:
-![Vehicle Listings](path_to_image.png)
-
-### Google Maps Integration:
-![Google Maps Integration](path_to_image.png)
-
 ## Tech Stack 🛠️
 - *Frontend:* HTML, CSS, JavaScript
 - *Backend:* PHP
