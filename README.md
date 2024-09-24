@@ -1,37 +1,43 @@
-# React Weather App 🌦️
+# RentalWheels 🚗
 
-A simple and responsive weather app built using *React* and *Vite*. It fetches real-time weather data using an API and displays the current weather conditions for any searched city.
+*RentalWheels* is a vehicle rental platform that allows users to rent vehicles from available listings and locate nearby rental services using *Google Maps API*. It provides a seamless experience for customers to search, book, and track rental vehicles based on their current location.
 
 ## Features ✨
-- Displays the current temperature, weather conditions, humidity, and wind speed.
-- Allows users to search for any city in the world.
-- Dynamically updates the weather based on the search input.
-- Responsive design that works on mobile, tablet, and desktop.
-
-## Demo 🚀
-Check out the live demo [here](#).
-
+- *Vehicle Listings:* Browse and search for available vehicles based on location and type (car, bike, etc.).
+- *Google Maps Integration:* Allows users to find rental vehicles near their current location.
+- *Booking System:* Users can book a vehicle for a specific period.
+- *Real-time Availability:* Vehicle availability is updated in real-time based on bookings.
+- *Responsive Design:* Optimized for mobile, tablet, and desktop devices.
+  
 ## Screenshots 📸
 ### Home Page:
 ![Home Page](path_to_image.png)
 
-### Search Results:
-![Search Results](path_to_image.png)
+### Vehicle Listings:
+![Vehicle Listings](path_to_image.png)
+
+### Google Maps Integration:
+![Google Maps Integration](path_to_image.png)
 
 ## Tech Stack 🛠️
-- *React*: Front-end library for building user interfaces.
-- *Vite*: Fast build tool and development server.
-- *JavaScript*: Core programming language.
-- *CSS*: For styling the app.
-- *OpenWeatherMap API*: API to fetch real-time weather data.
+- *Frontend:* HTML, CSS, JavaScript
+- *Backend:* PHP
+- *Database:* MySQL
+- *API Integration:* Google Maps API
+- *Hosting:* (Optional - specify if hosted on any platform)
+
+## Demo 🚀
+You can check out the live demo of RentalWheels [here](#).
 
 ## Getting Started 🏁
 
 ### Prerequisites
-Make sure you have *Node.js* and *npm* installed on your machine. You can download Node.js from [here](https://nodejs.org/).
+Make sure you have the following installed:
+- *XAMPP* (or any other local PHP server like WAMP/LAMP).
+- *Node.js* and *npm* (optional for frontend package management).
 
 ### Installation
 
-1. Clone the repository:
+1. *Clone the repository*:
    ```bash
-   git clone https://github.com/your-username/react-weather-app.git
+   git clone https://github.com/your-username/rentalwheels.git
